@@ -1,0 +1,34 @@
+Trivia		
+		
+Cats!		
+Potent Potables		
+Go Nuts for Donuts		
+Just Plain Inappropriate		
+That Guy		
+		
+	Answer	Question
+100	Meanest Cat Ever	Who is Señor Gato
+200	Number of cats eaten by coyotes	What is 3
+300	Dog who killed best cat ever	Who is Portia?
+400	Friend who is caring for Bandita	Who is Louis? 
+500	Mork and Mindy Themed Cat	Who is Mr. Binkley?
+100	100 point answer  Category B	100 point QUESTION Category B
+200	200 point answer  Category B	200 point QUESTION Category B
+300	300 point answer  Category B	300 point QUESTION Category B
+400	400 point answer  Category B	400 point QUESTION Category B
+500	500 point answer  Category B	500 point QUESTION Category B
+100	100 point answer  Category C	100 point QUESTION Category C
+200	200 point answer  Category C	200 point QUESTION Category C
+300	300 point answer  Category C	300 point QUESTION Category C
+400	400 point answer  Category C	400 point QUESTION Category C
+500	500 point answer  Category C	500 point QUESTION Category C
+100	100 point answer  Category D	100 point QUESTION Category D
+200	200 point answer  Category D	200 point QUESTION Category D
+300	300 point answer  Category D	300 point QUESTION Category D
+400	400 point answer  Category D	400 point QUESTION Category D
+500	500 point answer  Category D	500 point QUESTION Category D
+100	100 point answer  Category E	100 point QUESTION Category E
+200	200 point answer  Category E	200 point QUESTION Category E
+300	300 point answer  Category E	300 point QUESTION Category E
+400	400 point answer  Category E	400 point QUESTION Category E
+500	500 point answer  Category E	500 point QUESTION Category E
